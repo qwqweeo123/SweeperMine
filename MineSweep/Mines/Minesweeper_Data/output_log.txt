@@ -1,0 +1,79 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 850M (ID=0x1391)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+    Driver:   23.21.13.8800
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\3d扫雷Demo\Mines\Minesweeper_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\3d扫雷Demo\Mines\Minesweeper_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\3d扫雷Demo\Mines\Minesweeper_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\3d扫雷Demo\Mines\Minesweeper_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\3d扫雷Demo\Mines\Minesweeper_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\3d扫雷Demo\Mines\Minesweeper_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\3d扫雷Demo\Mines\Minesweeper_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\3d扫雷Demo\Mines\Minesweeper_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.614 seconds
+Platform assembly: D:\3d扫雷Demo\Mines\Minesweeper_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\3d扫雷Demo\Mines\Minesweeper_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 10.825964 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2fb8 -> priority: 1 
+  Thread -> id: 2f58 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 26.729143 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 455.
+Total: 13.442465 ms (FindLiveObjects: 0.100070 ms CreateObjectMapping: 0.014662 ms MarkObjects: 13.307571 ms  DeleteObjects: 0.019061 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.998796 ms
+
+Unloading 194 unused Assets to reduce memory usage. Loaded Objects now: 395.
+Total: 1.335375 ms (FindLiveObjects: 0.070012 ms CreateObjectMapping: 0.036289 ms MarkObjects: 0.476160 ms  DeleteObjects: 0.751813 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.777472 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 456.
+Total: 0.872777 ms (FindLiveObjects: 0.163852 ms CreateObjectMapping: 0.054617 ms MarkObjects: 0.607388 ms  DeleteObjects: 0.045086 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MineBlank.OnMouseEnter () [0x00000] in <filename unknown>:0 
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32)
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.568481 ms
+
+Unloading 136 unused Assets to reduce memory usage. Loaded Objects now: 395.
+Total: 0.646610 ms (FindLiveObjects: 0.058282 ms CreateObjectMapping: 0.034456 ms MarkObjects: 0.287015 ms  DeleteObjects: 0.266122 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.097112 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 456.
+Total: 0.533710 ms (FindLiveObjects: 0.049118 ms CreateObjectMapping: 0.030057 ms MarkObjects: 0.435839 ms  DeleteObjects: 0.017961 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.114707 ms
+
+Unloading 136 unused Assets to reduce memory usage. Loaded Objects now: 395.
+Total: 0.645144 ms (FindLiveObjects: 0.054983 ms CreateObjectMapping: 0.025292 ms MarkObjects: 0.313774 ms  DeleteObjects: 0.249993 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.795800 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 456.
+Total: 0.468462 ms (FindLiveObjects: 0.049485 ms CreateObjectMapping: 0.017228 ms MarkObjects: 0.383054 ms  DeleteObjects: 0.017961 ms)
+
